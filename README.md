@@ -10,6 +10,6 @@ Topics of Shell Scripting
 6. Loops
 7. Inputs
 8. Exit Status
-9. Quotes
-10. Redirectors
-11. sed Editor
+9. Quorectors
+11. sed tes
+10. RediEditor
